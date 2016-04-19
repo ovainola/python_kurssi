@@ -1,0 +1,4 @@
+# Statistical analysis examples
+
+http://ipython-books.github.io/featured-07/
+
